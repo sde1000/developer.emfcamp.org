@@ -4,7 +4,7 @@ linkTitle: TiDAL (2022)
 description: >
   A software repository for TiDAL badge apps, and API proxy services.  You can
   write and publish your own apps!
-weight: -22
+weight: -2022
 ---
 
 ## Hatchery
