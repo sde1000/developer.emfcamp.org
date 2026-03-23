@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "These are the source files for <https://developer.emfcamp.org>.",
   "scripts": {
-    "build": "npx hugo --minify --gc",
-    "dev": "npx hugo server",
+    "build": "hugo --minify --gc",
+    "dev": "hugo server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
@@ -12,5 +12,17 @@
     "hugo-extended": "^0.122.0",
     "postcss-cli": "^11.0.0",
     "sass": "^1.25.0"
+  },
+  "devEngines": {
+    "runtime": {
+      "name": "node",
+      "version": "^24.0.0",
+      "onFail": "download"
+    },
+    "packageManager": {
+      "name": "npm",
+      "version": "^11.0.0",
+      "onFail": "download"
+    }
   }
 }
