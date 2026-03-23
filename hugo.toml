@@ -81,6 +81,7 @@ prism_syntax_highlighting = true
 breadcrumb_disable = false
 # Set to false if you don't want to display a logo (/assets/icons/logo.svg) in the top navbar
 navbar_logo = true
+navbar_theme = "dark"
 navbar_translucent_over_cover_disable = false
 # Enable to show the side bar menu in its compact state.
 sidebar_menu_compact = false
@@ -124,7 +125,7 @@ enable = false
   # workspace = "docsy.work"
   [module.hugoVersion]
     extended = true
-    min = "0.110.0"
+    min = "0.155.0"
   [[module.imports]]
     path = "github.com/google/docsy"
     disable = false
