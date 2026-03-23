@@ -3,7 +3,11 @@ title: "Attendee-run APIs"
 description: Attendee-run APIs that don't get a mention elsewhere
 ---
 
-Here are some links to attendee-run APIs:
+## In 2026
+
+Nothing yet!  Maybe you'd like to cook something up?
+
+## In past years
 
 * Duck fact of the day API: <https://03vpefsitf.execute-api.eu-west-1.amazonaws.com/prod/>
 * Enhanced schedule API, more details [here](https://github.com/DanNixon/emfcamp-schedule-api/tree/main/adapter):

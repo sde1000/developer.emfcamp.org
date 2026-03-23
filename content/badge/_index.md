@@ -2,5 +2,5 @@
 title: Badges (2022 and 2024)
 linkTitle: Badge
 description: >
-  How to hack on year's badge, Tildagon, and the TiDAL badge from EMF 2022.
+  How to hack on the evergreen badge, Tildagon, introduced in 2024, and the TiDAL badge from EMF 2022.
 ---

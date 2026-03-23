@@ -7,10 +7,12 @@ cascade:
 This is the documentation for all of the weird and wonderful APIs exposed by things at EMF.
 {.h2}
 
-{{% alert title="These pages are still being updated frequently." color="danger" %}}
-Some things may change or not be available at the 2024 event.
+{{% alert title="Most content dates from 2024" color="danger" %}}
+Most pages on this website need to see some love since they were last updated for EMF 2024.
 
-If you'd like to help improve this documentation, or add more things, come and talk to us!
+Some things may change, or not be available, at EMF in 2026.
+
+If you'd like to help improve this documentation, or add more things, come and talk to us!  Details are below.
 {{% /alert %}}
 
 ## Help improve this!
