@@ -94,6 +94,13 @@ enable = false
 [params.ui.readingtime]
 enable = false
 
+# Permalinks config for Docsy doc-rooted site
+[permalinks]
+[permalinks.page]
+docs = "/:sections[1:]/:slugorcontentbasename/"
+[permalinks.section]
+docs = "/:sections[1:]"
+
 [params.links]
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
 [[params.links.user]]
