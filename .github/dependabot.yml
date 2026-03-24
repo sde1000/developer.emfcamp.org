@@ -9,14 +9,14 @@ multi-ecosystem-groups:
       interval: weekly
     # SemVer-breaking bumps in Docsy or Hugo modules probably need close attention.
     update-types: [minor, patch]
+    exclude-patterns:
+      # Hugo version is closely tied to Docsy version; avoid bumping it automatically.
+      - "hugo-extended"
 
 updates:
   - package-ecosystem: npm
     directory: /
     patterns: ["*"]
-    exclude-patterns:
-      # Hugo version is closely tied to Docsy version; avoid bumping it automatically.
-      - "hugo-extended"
     multi-ecosystem-group: hugo
 
   - package-ecosystem: gomod
