@@ -12,17 +12,5 @@
     "hugo-extended": "^0.155.3",
     "postcss-cli": "^11.0.0",
     "sass": "^1.25.0"
-  },
-  "devEngines": {
-    "runtime": {
-      "name": "node",
-      "version": "^24.0.0",
-      "onFail": "download"
-    },
-    "packageManager": {
-      "name": "npm",
-      "version": "^11.0.0",
-      "onFail": "download"
-    }
   }
 }
