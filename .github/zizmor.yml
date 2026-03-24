@@ -1,0 +1,5 @@
+rules:
+  dependabot-cooldown:
+    # Temporarily disable this rule, since we use a multi-ecosystem-group,
+    # until https://github.com/zizmorcore/zizmor/pull/1780 is released
+    disable: true
